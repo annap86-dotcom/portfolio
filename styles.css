@@ -13,6 +13,7 @@ body {
 div {
     border: 2px solid #AAAAAA; 
     border-radius: 20px;
+    box-shadow:
     -1px -1px 0 white,
     1px -1px 0 white,
     -1px 1px 0 white,
