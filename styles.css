@@ -1,0 +1,65 @@
+body {
+    background-color: #ebc4ce; 
+    color: black; 
+    font-family: sans-serif; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+
+div {
+    border: 2px solid #04e5e9; 
+    border-radius: 20px;
+    box-shadow:    
+    -1px -1px 0 #D6B037,
+    1px -1px 0 #D6B037,
+    -1px 1px 0 #D6B037,
+    1px 1px 0 #D6B037;
+    margin: 2%;
+    padding: 5%; 
+    text-align: center;
+    
+}
+
+h1 {
+    color: #04e5e9; 
+    text-shadow:
+    -1px -1px 0 #D6B037,
+    1px -1px 0 #D6B037,
+    -1px 1px 0 #D6B037,
+    1px 1px 0 #D6B037;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large; 
+    padding-bottom: 2%;
+}
+
+#intro p {
+    font-size:smaller;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #04e5e9; 
+    text-shadow:
+    -1px -1px 0 #D6B037,
+    1px -1px 0 #D6B037,
+    -1px 1px 0 #D6B037,
+    1px 1px 0 #D6B037;
+}
+
+#buttons {
+    font-size: xx-large;
+    padding: 2%;
+    width: 20%; 
+    text-align: center;
+    font-weight: bold;
+    color: #04e5e9; 
+    text-shadow:
+    -1px -1px 0 #D6B037,
+    1px -1px 0 #D6B037,
+    -1px 1px 0 #D6B037,
+    1px 1px 0 #D6B037;
+}
