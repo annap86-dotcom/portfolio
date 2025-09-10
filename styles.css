@@ -1,6 +1,6 @@
 body {
-    background-color: #ebc4ce; 
-    color: black; 
+    background-color: black; 
+    color: #AAAAAA; 
     font-family: sans-serif; 
     display: flex;
     flex-direction: column;
@@ -11,13 +11,12 @@ body {
 }
 
 div {
-    border: 2px solid #04e5e9; 
+    border: 2px solid #AAAAAA; 
     border-radius: 20px;
-    box-shadow:    
-    -1px -1px 0 #D6B037,
-    1px -1px 0 #D6B037,
-    -1px 1px 0 #D6B037,
-    1px 1px 0 #D6B037;
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
     margin: 2%;
     padding: 5%; 
     text-align: center;
@@ -25,12 +24,12 @@ div {
 }
 
 h1 {
-    color: #04e5e9; 
+    color: #AAAAAA; 
     text-shadow:
-    -1px -1px 0 #D6B037,
-    1px -1px 0 #D6B037,
-    -1px 1px 0 #D6B037,
-    1px 1px 0 #D6B037;
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: xx-large; 
     padding-bottom: 2%;
@@ -42,12 +41,12 @@ h1 {
 
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #04e5e9; 
+    color: #AAAAAA; 
     text-shadow:
-    -1px -1px 0 #D6B037,
-    1px -1px 0 #D6B037,
-    -1px 1px 0 #D6B037,
-    1px 1px 0 #D6B037;
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
 }
 
 #buttons {
@@ -56,10 +55,10 @@ h2 {
     width: 20%; 
     text-align: center;
     font-weight: bold;
-    color: #04e5e9; 
+    color: #AAAAAA; 
     text-shadow:
-    -1px -1px 0 #D6B037,
-    1px -1px 0 #D6B037,
-    -1px 1px 0 #D6B037,
-    1px 1px 0 #D6B037;
+     -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white;
 }
