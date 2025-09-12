@@ -23,6 +23,11 @@ div {
     
 }
 
+#intro {
+    max-width: 70%; 
+    
+}
+
 h1 {
     color: #AAAAAA;
     background: -webkit-linear-gradient(#9bdae8, #f2b3e8);
@@ -60,7 +65,7 @@ h2 {
     -1px 1px 0 white,
     1px 1px 0 white;
 }
-.image-holder {
+#image-holder {
     display:inline-block;
     position: absolute;
     top: 10%;
